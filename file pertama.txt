@@ -7,4 +7,4 @@ Rincian materi FS WEB - MSIB 5
 6.Laravel
 7. Rest API
 8. Soft Skill
-Angular
+Angular..
