@@ -4,7 +4,3 @@ Rincian materi FS WEB - MSIB 5
 3. GIT/GITHUB
 4. MySQL
 5. PHP
-6.Laravel
-7. Rest API
-8. Soft Skill
-Angular
